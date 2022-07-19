@@ -3,6 +3,12 @@ body{
     margin: 0px;
     padding: 0px;
 }
+h2{
+    margin: 0;
+}
+.common-textBox{
+    margin-bottom: 4%;
+}
 .header{
     margin-top: 5% !important;
 }
@@ -101,67 +107,65 @@ body{
 .top-bg{
     background-image: url(../images/shapes/dream-bg.png);
     background-repeat: no-repeat;
+    margin-top: 5%;
 }
 .coding{
-    width: 300px;
-    margin: 30px 0px 0px 150px;
+    width: 30%;
+    margin: 0px 0px 0px 117px;
     margin-right: 30px;
 }
 .coding img{
-    width: 300px;
+    width: 100%;
 }
 .coding-text{
-    width: 600px;
-    margin: 30px 0px 0px 80px;
+    width: 70%;
 }
-h2{
-    margin: 0;
+
+.coding-text h2, .comunity-text h2{
+    font-size: 48px;
 }
 .down-bg{
     background-image: url(../images/shapes/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-    
+    margin-top: 5%;    
 }
 .comunity{
-    width: 300px;
+    width: 40%;
     margin: 80px 0px 0px 150px;
     margin-right: 30px;
 }
+
 .comunity img{
-    width: 300px;
+    width: 100%;
 }
 .comunity-text{
-    width: 600px;
-    margin: 80px 0px 50px 150px;
+    width: 60%;
+    margin-top: 5%;
 }
 #work{
     color: #5acaff;
 }
-
+.project{
+    margin: 5% 0;
+}
 .project1{
-    width: 230px;
-    height: 230px;
-    padding: 5px 20px 7px 20px;
-    margin: 30px 0px 50px 250px;
+    width: 32%;
+    margin-right: 2%;
 }
 .project1 img{
     width:100%;    
 }
 .project2{
-    width: 230px;
-    height: 230px;
-    padding: 5px 20px 7px 20px;
-    margin: 30px 0px 50px 30px;
+    width: 32%;
+    margin-right: 2%;
 }
 .project2 img{
-    width:100%;   
+    width:100%; 
+    height: 95%;  
 }
 .project3{
-    width: 230px;
-    height: 230px;
-    padding: 5px 20px 7px 20px;
-    margin: 30px 0px 50px 30px;
+    width: 32%;
 }
 .project3 img{
     width:100%;    
@@ -173,7 +177,7 @@ footer{
     height: 100px;
     padding-bottom: 20px;    
 }
-.italic{
+.copyright{
     font-style: italic;
     color: white;
     text-align: center;
@@ -184,3 +188,10 @@ footer{
     color:#0fbbef;
 }
 
+.copyright a{
+    color: #fff;
+    text-decoration: none;
+}
+.copyright a:hover{
+    color: tomato;
+}
