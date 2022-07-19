@@ -1,0 +1,194 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    margin-top: 5%;
+}
+.half-width{
+    display: flex;
+}
+.col-md-6{
+    width: 50%;
+   margin: 10px 50px 0px 150px;
+}
+.title-text{
+    font-size: 3em;
+    font-weight: 800;
+    padding-top: 0%;
+    border-left: 4px solid orangered;
+    padding-left: 6px;
+    margin-top: 2%;
+    
+}
+.title-text h3{
+    margin: 0;
+    padding: 0;
+}
+#mission{
+    text-align: justify;
+    color:#5acaff;
+
+}
+.col-md-6 img{
+    width: 400px;
+}
+.btn-wrapper{
+    margin-top: 5%;
+}
+.btn{
+    background-color: #ff5959;    
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding:15px 30px;
+    border-radius: 5px;
+    margin: 2% 0;   
+}
+.btn:hover{
+    background-color: #FFAD5A;
+    color: #000;
+}
+.heading{
+    text-align: center;
+    font-weight: 800;
+    font-size: 2em;
+    
+}
+#year{
+    color: #5acaff;
+}
+
+
+.illustrator-1{
+    width: 280px;
+    height: 320px;
+    padding: 5px 40px 7px 20px;
+    margin: 30px 0px 50px 150px;
+    border: 10px 10px 10px 10px ; 
+    border-radius: 15px;
+    background-color:#f6efed;
+}
+.illustrator-1 img{
+    width: 60%;
+}
+.illustrator-2{
+    width: 280px;
+    height: 320px;
+    padding: 5px 40px 7px 20px;
+    margin: 30px 0px 50px 20px;
+    border: 10px 10px 10px 10px ; 
+    border-radius: 15px;
+    background-color:#c6faff;
+}
+.illustrator-2 img{
+    width: 60%;
+}
+.illustrator-3{
+    width: 280px;
+    height: 320px;
+    padding: 5px 40px 7px 20px;
+    margin: 30px 0px 50px 20px;
+    border: 10px 10px 10px 10px ; 
+    border-radius: 15px;
+    background-color:#eaffd6;
+}
+.illustrator-3 img{
+    width: 60%;
+}
+
+.col-md-4 img{
+    width: 100px;
+}
+.top-bg{
+    background-image: url(../images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+}
+.coding{
+    width: 300px;
+    margin: 30px 0px 0px 150px;
+    margin-right: 30px;
+}
+.coding img{
+    width: 300px;
+}
+.coding-text{
+    width: 600px;
+    margin: 30px 0px 0px 80px;
+}
+h2{
+    margin: 0;
+}
+.down-bg{
+    background-image: url(../images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+.comunity{
+    width: 300px;
+    margin: 80px 0px 0px 150px;
+    margin-right: 30px;
+}
+.comunity img{
+    width: 300px;
+}
+.comunity-text{
+    width: 600px;
+    margin: 80px 0px 50px 150px;
+}
+#work{
+color: #5acaff;
+}
+
+.project1{
+    width: 230px;
+    height: 230px;
+    padding: 5px 20px 7px 20px;
+    margin: 30px 0px 50px 250px;
+}
+.project1 img{
+    width:100%;
+    
+}
+.project2{
+    width: 230px;
+    height: 230px;
+    padding: 5px 20px 7px 20px;
+    margin: 30px 0px 50px 30px;
+}
+.project2 img{
+    width:100%;
+   
+}
+.project3{
+    width: 230px;
+    height: 230px;
+    padding: 5px 20px 7px 20px;
+    margin: 30px 0px 50px 30px;
+}
+.project3 img{
+    width:100%;
+    
+}
+
+footer{
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    padding-bottom: 20px;
+    
+}
+.italic{
+    font-style: italic;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    
+  
+}
+#footer-text{
+    color:#0fbbef;
+}
+
